@@ -1,3 +1,5 @@
+puts "this homework exercise is fun"
+
 print "Please enter restaurant bill without tip in numbers. NO LETTERS OR WORDS ALLOWED!!" "\n"
 bill = gets.chomp.to_f
 until bill > 0
